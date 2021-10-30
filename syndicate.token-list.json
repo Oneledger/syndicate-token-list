@@ -1,0 +1,12 @@
+{
+  "name": "Syndi",
+  "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.png",
+  "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
+  "timestamp": "2021-10-30T21:02:52.544Z",
+  "tokens": [],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

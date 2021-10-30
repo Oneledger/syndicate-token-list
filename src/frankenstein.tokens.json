@@ -1,0 +1,13 @@
+[
+  {
+    "address": "0x48f6831c185511EA8fDD59aD915465F1F043D0e2",
+    "name": "Syndicate ETH",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0xC5C832C98965Ab43f2b7FbDcbB4d5A5FA2095024",
+    "name": "Syndicate USDT",
+    "symbol": "USDT",
+    "decimals": 6
+  }
+]

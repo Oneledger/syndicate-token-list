@@ -1,0 +1,37 @@
+{
+  "name": "Syndi Experimental",
+  "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.png",
+  "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
+  "timestamp": "2021-10-30T21:02:52.544Z",
+  "tokens": [
+    {
+      "address": "0x48f6831c185511EA8fDD59aD915465F1F043D0e2",
+      "name": "Syndicate ETH",
+      "symbol": "ETH",
+      "chainId": 4216137055,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_ETH.png"
+    },
+    {
+      "address": "0xC5C832C98965Ab43f2b7FbDcbB4d5A5FA2095024",
+      "name": "Syndicate USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 4216137055,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_USDT.png"
+    },
+    {
+      "address": "0x2084F9901E4D67e980E63D3c1Aa0239c68f19bc6",
+      "name": "Syndicate OLT",
+      "symbol": "OLT",
+      "chainId": 3,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_OLT.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
