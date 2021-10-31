@@ -2,8 +2,16 @@
   "name": "Syndi Experimental",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.png",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2021-10-30T21:02:52.544Z",
+  "timestamp": "2021-10-31T18:35:38.026Z",
   "tokens": [
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Frankenstein OneLedger Token",
+      "symbol": "OLT",
+      "chainId": 4216137055,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_OLT.png"
+    },
     {
       "address": "0x48f6831c185511EA8fDD59aD915465F1F043D0e2",
       "name": "Syndicate ETH",
@@ -18,6 +26,22 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 4216137055,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_USDT.png"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ropsten Ethereum Token",
+      "symbol": "ETH",
+      "chainId": 3,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_ETH.png"
+    },
+    {
+      "address": "0x110a13FC3efE6A245B50102D2d79B3E76125Ae83",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_USDT.png"
     },
     {
