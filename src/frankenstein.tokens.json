@@ -1,18 +1,13 @@
 [
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Frankenstein OneLedger Token",
-    "symbol": "OLT"
-  },
-  {
     "address": "0x48f6831c185511EA8fDD59aD915465F1F043D0e2",
     "name": "Syndicate ETH",
-    "symbol": "ETH"
+    "symbol": "sETH"
   },
   {
     "address": "0xC5C832C98965Ab43f2b7FbDcbB4d5A5FA2095024",
     "name": "Syndicate USDT",
-    "symbol": "USDT",
+    "symbol": "sUSDT",
     "decimals": 6
   }
 ]
