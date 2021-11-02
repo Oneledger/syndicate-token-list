@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="200px" viewBox="0 0 174 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Graphics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-13.000000, 0.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Group" transform="translate(13.000000, 0.000000)">
+                <path d="M41.5,0 L82.6362067,23.75 L82.6362067,71.25 L41.5,95 L0.36379332,71.25 L0.36379332,23.75 L41.5,0 Z M132.5,105 L173.636207,128.75 L173.636207,176.25 L132.5,200 L91.3637933,176.25 L91.3637933,128.75 L132.5,105 Z" id="Combined-Shape" fill="#3A8C9E"></path>
+                <path d="M132.5,0 L173.636207,23.75 L173.636207,71.25 L132.5,95 L91.3637933,71.25 L91.3637933,23.75 L132.5,0 Z M41.5,105 L82.6362067,128.75 L82.6362067,176.25 L41.5,200 L0.36379332,176.25 L0.36379332,128.75 L41.5,105 Z" id="Combined-Shape" fill="#5DF5CF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="174px"
+   height="200px"
+   viewBox="0 0 174 200"
+   version="1.1"
+   id="svg844">
+  <metadata
+     id="metadata850">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs848">
+    <linearGradient
+       id="linearGradient2943">
+      <stop
+         style="stop-color:#3a8c9e;stop-opacity:1"
+         offset="0"
+         id="stop2939" />
+      <stop
+         style="stop-color:#5df5cf;stop-opacity:1"
+         offset="1"
+         id="stop2941" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2943"
+       id="linearGradient2945"
+       x1="79.014473"
+       y1="104.37054"
+       x2="92.043144"
+       y2="95.663071"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title833">Logo</title>
+  <desc
+     id="desc835">Created with Sketch.</desc>
+  <g
+     id="Graphics"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="Logo"
+       transform="translate(-13.000000, 0.000000)"
+       fill-rule="nonzero">
+      <rect
+         id="Rectangle"
+         fill-opacity="0"
+         fill="#FFFFFF"
+         x="0"
+         y="0"
+         width="200"
+         height="200" />
+      <g
+         id="Group"
+         transform="translate(13.000000, 0.000000)">
+        <path
+           d="M41.5,0 L82.6362067,23.75 L82.6362067,71.25 L41.5,95 L0.36379332,71.25 L0.36379332,23.75 L41.5,0 Z M132.5,105 L173.636207,128.75 L173.636207,176.25 L132.5,200 L91.3637933,176.25 L91.3637933,128.75 L132.5,105 Z"
+           id="Combined-Shape"
+           fill="#3A8C9E" />
+        <path
+           d="M132.5,0 L173.636207,23.75 L173.636207,71.25 L132.5,95 L91.3637933,71.25 L91.3637933,23.75 L132.5,0 Z M41.5,105 L82.6362067,128.75 L82.6362067,176.25 L41.5,200 L0.36379332,176.25 L0.36379332,128.75 L41.5,105 Z"
+           id="path839"
+           fill="#5DF5CF" />
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient2945);fill-opacity:1;stroke:none;opacity:1"
+     x="72.925171"
+     y="114.28571"
+     id="text871"><tspan
+       id="tspan869"
+       x="72.925171"
+       y="114.28571"
+       style="fill-opacity:1;fill:url(#linearGradient2945)">S</tspan></text>
+</svg>
