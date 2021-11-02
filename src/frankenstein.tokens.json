@@ -2,12 +2,30 @@
   {
     "address": "0x48f6831c185511EA8fDD59aD915465F1F043D0e2",
     "name": "Syndicate ETH",
-    "symbol": "sETH"
+    "symbol": "sETH",
+    "extensions": {
+      "bridgeInfo": {
+        "3": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87",
+          "destBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46"
+        }
+      }
+    }
   },
   {
     "address": "0xC5C832C98965Ab43f2b7FbDcbB4d5A5FA2095024",
     "name": "Syndicate USDT",
     "symbol": "sUSDT",
-    "decimals": 6
+    "decimals": 6,
+    "extensions": {
+      "bridgeInfo": {
+        "3": {
+          "tokenAddress": "0x110a13FC3efE6A245B50102D2d79B3E76125Ae83",
+          "originBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87",
+          "destBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46"
+        }
+      }
+    }
   }
 ]

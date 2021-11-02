@@ -2,12 +2,21 @@
   "name": "Syndi Experimental",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.png",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2021-11-02T13:55:06.907Z",
+  "timestamp": "2021-11-02T15:40:05.625Z",
   "tokens": [
     {
       "address": "0x48f6831c185511EA8fDD59aD915465F1F043D0e2",
       "name": "Syndicate ETH",
       "symbol": "sETH",
+      "extensions": {
+        "bridgeInfo": {
+          "3": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87",
+            "destBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46"
+          }
+        }
+      },
       "chainId": 4216137055,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sETH.svg"
@@ -17,6 +26,15 @@
       "name": "Syndicate USDT",
       "symbol": "sUSDT",
       "decimals": 6,
+      "extensions": {
+        "bridgeInfo": {
+          "3": {
+            "tokenAddress": "0x110a13FC3efE6A245B50102D2d79B3E76125Ae83",
+            "originBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87",
+            "destBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46"
+          }
+        }
+      },
       "chainId": 4216137055,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sUSDT.svg"
     },
@@ -25,6 +43,15 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
+      "extensions": {
+        "bridgeInfo": {
+          "4216137055": {
+            "tokenAddress": "0xC5C832C98965Ab43f2b7FbDcbB4d5A5FA2095024",
+            "originBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46",
+            "destBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87"
+          }
+        }
+      },
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_USDT.svg"
     },
@@ -32,6 +59,15 @@
       "address": "0x2084F9901E4D67e980E63D3c1Aa0239c68f19bc6",
       "name": "Syndicate OLT",
       "symbol": "sOLT",
+      "extensions": {
+        "bridgeInfo": {
+          "4216137055": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46",
+            "destBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87"
+          }
+        }
+      },
       "chainId": 3,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
