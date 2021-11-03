@@ -7,23 +7,24 @@
     "extensions": {
       "bridgeInfo": {
         "4216137055": {
-          "tokenAddress": "0xC5C832C98965Ab43f2b7FbDcbB4d5A5FA2095024",
-          "originBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46",
-          "destBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87"
+          "tokenAddress": "0x277fb0Bfba8c400560B62B37F21deB1C8765a821",
+          "originBridgeAddress": "0x6DEF0fbb60a805c8dD4f093f8A2127731204BDAC",
+          "destBridgeAddress": "0x2e047D405F99daFcF58a33308aE0e2C9194d62CE"
         }
       }
     }
   },
   {
-    "address": "0x2084F9901E4D67e980E63D3c1Aa0239c68f19bc6",
+    "address": "0x8bc62E22F2059f5a24Ece5A79c6367EB96DEE542",
     "name": "Syndicate OLT",
     "symbol": "sOLT",
+    "decimals": 18,
     "extensions": {
       "bridgeInfo": {
         "4216137055": {
           "tokenAddress": "0x0000000000000000000000000000000000000000",
-          "originBridgeAddress": "0xCc659264083199ecb0a6ff74f57d3441Af843C46",
-          "destBridgeAddress": "0xa57cf74780d296d7bC7B03B84f21F874414cBd87"
+          "originBridgeAddress": "0x6DEF0fbb60a805c8dD4f093f8A2127731204BDAC",
+          "destBridgeAddress": "0x2e047D405F99daFcF58a33308aE0e2C9194d62CE"
         }
       }
     }
