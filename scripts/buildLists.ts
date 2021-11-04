@@ -25,7 +25,7 @@ const makeTokenList = (
   }
   return {
     name: previousTokenList?.name ?? "Unknown List",
-    logoURI: `${LOGO_URI_BASE}/logo.png`,
+    logoURI: `${LOGO_URI_BASE}/logo.svg`,
     keywords: ["olt", "oneledger", "syndicate", "defi", "bridge"],
     timestamp,
     tokens,

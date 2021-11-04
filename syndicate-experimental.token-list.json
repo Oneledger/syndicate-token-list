@@ -1,8 +1,8 @@
 {
   "name": "Syndi Experimental",
-  "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2021-11-03T18:05:37.802Z",
+  "timestamp": "2021-11-04T16:31:06.787Z",
   "tokens": [
     {
       "address": "0x277fb0Bfba8c400560B62B37F21deB1C8765a821",
