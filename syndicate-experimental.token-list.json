@@ -2,7 +2,7 @@
   "name": "Syndi Experimental",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2021-11-05T20:35:22.711Z",
+  "timestamp": "2021-11-05T21:52:00.582Z",
   "tokens": [
     {
       "address": "0x1B1aE5AD51979413C2023e29a1f3E10A09285285",
@@ -37,6 +37,23 @@
       },
       "chainId": 4216137055,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sETH.svg"
+    },
+    {
+      "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
+      "name": "Syndicate OneLedger Token",
+      "symbol": "sOLT",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "311752642": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0",
+            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+          }
+        }
+      },
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     },
     {
       "address": "0x110a13FC3efE6A245B50102D2d79B3E76125Ae83",

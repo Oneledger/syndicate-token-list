@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
+    "name": "Syndicate OneLedger Token",
+    "symbol": "sOLT",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "311752642": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0",
+          "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+        }
+      }
+    }
+  }
+]
