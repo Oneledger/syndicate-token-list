@@ -2,7 +2,7 @@
   {
     "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
     "name": "Syndicate OneLedger Token",
-    "symbol": "sOLT",
+    "symbol": "OLT",
     "decimals": 18,
     "extensions": {
       "bridgeInfo": {

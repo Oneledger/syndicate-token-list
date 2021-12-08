@@ -1,8 +1,12 @@
-import oneledger from "../../src/oneledger.tokens.json";
-import frankenstein from "../../src/frankenstein.tokens.json";
-import ethereum from "../../src/ethereum.tokens.json";
-import ropsten from "../../src/ropsten.tokens.json";
 import { TokenInfo } from "@uniswap/token-lists";
+// mainnets
+import oneledger from "../../src/oneledger.tokens.json";
+import ethereum from "../../src/ethereum.tokens.json";
+// testnets
+import frankenstein from "../../src/frankenstein.tokens.json";
+import ropsten from "../../src/ropsten.tokens.json";
+import bsc_testnet from "../../src/bsc_testnet.tokens.json";
+import mumbai from "../../src/mumbai.tokens.json";
 
 type IRawToken = Pick<TokenInfo, "address" | "name" | "symbol"> &
   Partial<Pick<TokenInfo, "logoURI" | "decimals">> & {
@@ -14,13 +18,14 @@ type IRawTokenListJson = readonly IRawToken[];
 
 export const WEB3_NETWORK_NAMES = [
   "oneledger",
-  "frankenstein",
   "ethereum",
+
+  "frankenstein",
   "ropsten",
+  "bsc_testnet",
+  "mumbai",
 ] as const;
 export type IWeb3Network = typeof WEB3_NETWORK_NAMES[number];
-
-export const MAINNET_CHAIN_IDS = [1, 311752642];
 
 // assert the JSON is valid
 const rawTokensJson: {
@@ -30,6 +35,8 @@ const rawTokensJson: {
   frankenstein: [4216137055, frankenstein],
   ethereum: [1, ethereum],
   ropsten: [3, ropsten],
+  bsc_testnet: [97, bsc_testnet],
+  mumbai: [80001, mumbai],
 };
 
 export const getNetworkTokens = (network: IWeb3Network): IRawTokenListJson =>

@@ -1,0 +1,18 @@
+[
+  {
+    "address": "0x163F9E7a257fa0fa25fa080dFfCf46686B9Be7ad",
+    "name": "Syndicate OneLedger Token",
+    "symbol": "OLT",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "4216137055": {
+          "tokenAddress": "0x0000000000000000000000000000000000000000",
+          "originBridgeAddress": "0x99d4Ab6632E703137b59a92169850e554cAAdEFF",
+          "destBridgeAddress": "0x83Bc71C069774356469D1c79b43E346bf160757b"
+        }
+      }
+    }
+  }
+]

@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import * as process from "process";
 import packageJSON from "../package.json";
-import { rawTokens, MAINNET_CHAIN_IDS } from "./utils/rawTokens";
+import { rawTokens } from "./utils/rawTokens";
 import { TokenInfo, TokenList } from "@uniswap/token-lists";
 
 import { requireOrNull } from "./utils/requireOrNull";
@@ -43,7 +43,9 @@ const main = async () => {
       const logoURI =
         elLogoURI ||
         (logoFile ? `${LOGO_URI_BASE}/assets/${logoFile}` : null) ||
-        `${LOGO_URI_BASE}/assets/asset_${el.symbol}.svg`;
+        `${LOGO_URI_BASE}/assets/asset_${
+          el.name.includes("Syndicate") ? `s${el.symbol}` : el.symbol
+        }.svg`;
 
       // Validate
       if (logoURI.startsWith(LOGO_URI_BASE)) {
@@ -68,7 +70,7 @@ const main = async () => {
 
   const [mainTokenListTokens, experimentalTokenListTokens] = allTokens.reduce(
     ([mainTokens, experimentalTokens], { isExperimental, ...tok }) => {
-      if (isExperimental !== true && MAINNET_CHAIN_IDS.includes(tok.chainId)) {
+      if (isExperimental !== true) {
         return [
           [...mainTokens, tok],
           [...experimentalTokens, tok],
