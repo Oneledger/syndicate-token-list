@@ -2,6 +2,8 @@ import { TokenInfo } from "@uniswap/token-lists";
 // mainnets
 import oneledger from "../../src/oneledger.tokens.json";
 import ethereum from "../../src/ethereum.tokens.json";
+import bsc from "../../src/bsc.tokens.json";
+import polygon from "../../src/polygon.tokens.json";
 // testnets
 import frankenstein from "../../src/frankenstein.tokens.json";
 import ropsten from "../../src/ropsten.tokens.json";
@@ -19,6 +21,8 @@ type IRawTokenListJson = readonly IRawToken[];
 export const WEB3_NETWORK_NAMES = [
   "oneledger",
   "ethereum",
+  "bsc",
+  "polygon",
 
   "frankenstein",
   "ropsten",
@@ -32,8 +36,11 @@ const rawTokensJson: {
   [network in IWeb3Network]: [number, IRawTokenListJson];
 } = {
   oneledger: [311752642, oneledger],
-  frankenstein: [4216137055, frankenstein],
   ethereum: [1, ethereum],
+  bsc: [56, bsc],
+  polygon: [137, polygon],
+
+  frankenstein: [4216137055, frankenstein],
   ropsten: [3, ropsten],
   bsc_testnet: [97, bsc_testnet],
   mumbai: [80001, mumbai],
