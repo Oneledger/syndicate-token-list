@@ -1,13 +1,19 @@
 {
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
-  "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
+  "keywords": [
+    "olt",
+    "oneledger",
+    "syndicate",
+    "defi",
+    "bridge"
+  ],
   "timestamp": "2021-12-09T18:14:36.893Z",
   "tokens": [
     {
       "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
       "name": "Syndicate OneLedger Token",
-      "symbol": "OLT",
+      "symbol": "sOLT",
       "decimals": 18,
       "extensions": {
         "bridgeInfo": {
