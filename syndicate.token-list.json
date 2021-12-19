@@ -26,40 +26,6 @@
       },
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
-    },
-    {
-      "address": "0xd15FC148C332e4228209050c809C89047443CAcD",
-      "name": "Syndicate OneLedger Token",
-      "symbol": "OLT",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "311752642": {
-            "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0x309bdec69FB76861192bFD56dbEC1212a4D3B191",
-            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
-          }
-        }
-      },
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
-    },
-    {
-      "address": "0xED9AAD5a764aB1522a67AbAD3583EbefaEfa2BA5",
-      "name": "Syndicate OneLedger Token",
-      "symbol": "OLT",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "311752642": {
-            "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0x51Bf2FeAf9F72a546e86Bb8ce44705A55Ca881CA",
-            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
-          }
-        }
-      },
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     }
   ],
   "version": {
