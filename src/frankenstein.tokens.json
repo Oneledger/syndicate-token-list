@@ -1,5 +1,21 @@
 [
   {
+    "address": "0x4E5e005c548287465665E09290734541902a4979",
+    "name": "Syndicate BUSD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "97": {
+          "tokenAddress": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+          "originBridgeAddress": "0x83Bc71C069774356469D1c79b43E346bf160757b",
+          "destBridgeAddress": "0x3BE0E4a86545F123d8b46eECecCc205BbE57Eb99"
+        }
+      }
+    }
+  },
+  {
     "address": "0x5141e37bee838DdE7BCad93F8209E0b65b36b46C",
     "name": "Syndicate USDT",
     "symbol": "USDT",
