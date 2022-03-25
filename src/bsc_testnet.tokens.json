@@ -14,5 +14,21 @@
         }
       }
     }
+  },
+  {
+    "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "isExperimental": true,
+    "extensions": {
+      "bridgeInfo": {
+        "4216137055": {
+          "tokenAddress": "0x4E5e005c548287465665E09290734541902a4979",
+          "originBridgeAddress": "0x3BE0E4a86545F123d8b46eECecCc205BbE57Eb99",
+          "destBridgeAddress": "0x83Bc71C069774356469D1c79b43E346bf160757b"
+        }
+      }
+    }
   }
 ]
