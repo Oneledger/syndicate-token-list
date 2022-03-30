@@ -1,6 +1,6 @@
 {
   "name": "@oneledger/syndicate-token-list",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Syndicate default token list",
   "main": "syndicate.token-list.json",
   "repository": "git@github.com:oneledger/syndicate-token-list.git",

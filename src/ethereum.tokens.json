@@ -13,5 +13,20 @@
         }
       }
     }
+  },
+  {
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "extensions": {
+      "bridgeInfo": {
+        "311752642": {
+          "tokenAddress": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
+          "originBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0",
+          "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+        }
+      }
+    }
   }
 ]

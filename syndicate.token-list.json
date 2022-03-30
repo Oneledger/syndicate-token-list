@@ -2,8 +2,25 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2022-03-26T10:50:56.289Z",
+  "timestamp": "2022-03-30T15:09:06.689Z",
   "tokens": [
+    {
+      "address": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
+      "name": "Syndicate USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+            "destBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0"
+          }
+        }
+      },
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sUSDT.svg"
+    },
     {
       "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
       "name": "Syndicate OneLedger Token",
@@ -20,6 +37,23 @@
       },
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "extensions": {
+        "bridgeInfo": {
+          "311752642": {
+            "tokenAddress": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
+            "originBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0",
+            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+          }
+        }
+      },
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_USDT.svg"
     },
     {
       "address": "0xd15FC148C332e4228209050c809C89047443CAcD",
@@ -59,6 +93,6 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 2
+    "patch": 3
   }
 }
