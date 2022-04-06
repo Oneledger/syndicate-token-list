@@ -2,8 +2,76 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2022-03-30T15:09:06.689Z",
+  "timestamp": "2022-04-06T18:44:22.490Z",
   "tokens": [
+    {
+      "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
+      "name": "Syndicate BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "56": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+            "destBridgeAddress": "0x309bdec69FB76861192bFD56dbEC1212a4D3B191"
+          }
+        }
+      },
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sBNB.svg"
+    },
+    {
+      "address": "0xA04eC6D466AE7d40b4c92cE93C208752A35F3D7a",
+      "name": "Syndicate DigitalBits",
+      "symbol": "XDB",
+      "decimals": 7,
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+            "destBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0"
+          }
+        }
+      },
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sXDB.svg"
+    },
+    {
+      "address": "0xa2a899F4B27B2bfa98f5c41A1c1f300aF652799C",
+      "name": "Syndicate BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "56": {
+            "tokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+            "destBridgeAddress": "0x309bdec69FB76861192bFD56dbEC1212a4D3B191"
+          }
+        }
+      },
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sBUSD.svg"
+    },
+    {
+      "address": "0xADF12d0a4b4a6b78a7BD58c51d12C46148081e9A",
+      "name": "Syndicate MATIC",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+            "destBridgeAddress": "0x51Bf2FeAf9F72a546e86Bb8ce44705A55Ca881CA"
+          }
+        }
+      },
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sMATIC.svg"
+    },
     {
       "address": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
       "name": "Syndicate USDT",
@@ -73,6 +141,23 @@
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     },
     {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "311752642": {
+            "tokenAddress": "0xa2a899F4B27B2bfa98f5c41A1c1f300aF652799C",
+            "originBridgeAddress": "0x309bdec69FB76861192bFD56dbEC1212a4D3B191",
+            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+          }
+        }
+      },
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_BUSD.svg"
+    },
+    {
       "address": "0xED9AAD5a764aB1522a67AbAD3583EbefaEfa2BA5",
       "name": "Syndicate OneLedger Token",
       "symbol": "OLT",
@@ -93,6 +178,6 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 3
+    "patch": 4
   }
 }

@@ -13,5 +13,20 @@
         }
       }
     }
+  },
+  {
+    "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "extensions": {
+      "bridgeInfo": {
+        "311752642": {
+          "tokenAddress": "0xa2a899F4B27B2bfa98f5c41A1c1f300aF652799C",
+          "originBridgeAddress": "0x309bdec69FB76861192bFD56dbEC1212a4D3B191",
+          "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+        }
+      }
+    }
   }
 ]
