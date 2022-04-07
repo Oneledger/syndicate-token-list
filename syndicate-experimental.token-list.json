@@ -2,7 +2,7 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2022-04-07T16:06:16.404Z",
+  "timestamp": "2022-04-07T16:13:54.756Z",
   "tokens": [
     {
       "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
@@ -54,23 +54,6 @@
       },
       "chainId": 311752642,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sBUSD.svg"
-    },
-    {
-      "address": "0xADF12d0a4b4a6b78a7BD58c51d12C46148081e9A",
-      "name": "Syndicate MATIC",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "extensions": {
-        "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0x0000000000000000000000000000000000000000",
-            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
-            "destBridgeAddress": "0x51Bf2FeAf9F72a546e86Bb8ce44705A55Ca881CA"
-          }
-        }
-      },
-      "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sMATIC.svg"
     },
     {
       "address": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
