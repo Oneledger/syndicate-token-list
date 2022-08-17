@@ -4,6 +4,7 @@ import oneledger from "../../src/oneledger.tokens.json";
 import ethereum from "../../src/ethereum.tokens.json";
 import bsc from "../../src/bsc.tokens.json";
 import polygon from "../../src/polygon.tokens.json";
+import okc from "../../src/okc.tokens.json";
 // testnets
 import frankenstein from "../../src/frankenstein.tokens.json";
 import ropsten from "../../src/ropsten.tokens.json";
@@ -23,6 +24,7 @@ export const WEB3_NETWORK_NAMES = [
   "ethereum",
   "bsc",
   "polygon",
+  "okc",
 
   "frankenstein",
   "ropsten",
@@ -39,6 +41,7 @@ const rawTokensJson: {
   ethereum: [1, ethereum],
   bsc: [56, bsc],
   polygon: [137, polygon],
+  okc: [66, okc],
 
   frankenstein: [4216137055, frankenstein],
   ropsten: [3, ropsten],

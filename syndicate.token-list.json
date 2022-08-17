@@ -2,8 +2,25 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2022-04-07T16:13:54.756Z",
+  "timestamp": "2022-08-17T02:35:48.959Z",
   "tokens": [
+    {
+      "address": "0x14491e290e160E9B966f1e47b4f0Fd216bC8ED73",
+      "name": "Syndicate OKT",
+      "symbol": "OKT",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "66": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+            "destBridgeAddress": "0x8d5E6EE117cBa6bf130cc31d21F98200897E4DF8"
+          }
+        }
+      },
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOKT.svg"
+    },
     {
       "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
       "name": "Syndicate BNB",
@@ -92,7 +109,7 @@
     {
       "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
       "name": "Syndicate OneLedger Token",
-      "symbol": "sOLT",
+      "symbol": "OLT",
       "decimals": 18,
       "extensions": {
         "bridgeInfo": {
@@ -172,6 +189,23 @@
         }
       },
       "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+    },
+    {
+      "address": "0x4485aEC156aF64b397b172b14a6Dcb56263Ab1Dc",
+      "name": "Syndicate OneLedger Token",
+      "symbol": "OLT",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "311752642": {
+            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "originBridgeAddress": "0x8d5E6EE117cBa6bf130cc31d21F98200897E4DF8",
+            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+          }
+        }
+      },
+      "chainId": 66,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     }
   ],
