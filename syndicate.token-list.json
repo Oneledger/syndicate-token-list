@@ -2,24 +2,24 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2022-08-17T02:35:48.959Z",
+  "timestamp": "2022-09-07T02:26:08.272Z",
   "tokens": [
     {
-      "address": "0x14491e290e160E9B966f1e47b4f0Fd216bC8ED73",
-      "name": "Syndicate OKT",
-      "symbol": "OKT",
+      "address": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
+      "name": "Syndicate WOKT",
+      "symbol": "WOKT",
       "decimals": 18,
       "extensions": {
         "bridgeInfo": {
           "66": {
-            "tokenAddress": "0x0000000000000000000000000000000000000000",
+            "tokenAddress": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
             "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
             "destBridgeAddress": "0x8d5E6EE117cBa6bf130cc31d21F98200897E4DF8"
           }
         }
       },
       "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOKT.svg"
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sWOKT.svg"
     },
     {
       "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
@@ -207,6 +207,23 @@
       },
       "chainId": 66,
       "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+    },
+    {
+      "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+      "name": "Wrapped OKT",
+      "symbol": "WOKT",
+      "decimals": 18,
+      "extensions": {
+        "bridgeInfo": {
+          "311752642": {
+            "tokenAddress": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
+            "originBridgeAddress": "0x8d5E6EE117cBa6bf130cc31d21F98200897E4DF8",
+            "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+          }
+        }
+      },
+      "chainId": 66,
+      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_WOKT.svg"
     }
   ],
   "version": {
