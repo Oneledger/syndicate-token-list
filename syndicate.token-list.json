@@ -1,8 +1,8 @@
 {
   "name": "Syndicate Bridge",
-  "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/logo.svg",
+  "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/logo.svg",
   "keywords": ["olt", "oneledger", "syndicate", "defi", "bridge"],
-  "timestamp": "2022-09-07T02:26:08.272Z",
+  "timestamp": "2022-09-16T04:47:16.249Z",
   "tokens": [
     {
       "address": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
@@ -19,7 +19,7 @@
         }
       },
       "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sWOKT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sWOKT.svg"
     },
     {
       "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
@@ -36,7 +36,7 @@
         }
       },
       "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sBNB.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sBNB.svg"
     },
     {
       "address": "0xA04eC6D466AE7d40b4c92cE93C208752A35F3D7a",
@@ -53,7 +53,7 @@
         }
       },
       "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sXDB.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sXDB.svg"
     },
     {
       "address": "0xa2a899F4B27B2bfa98f5c41A1c1f300aF652799C",
@@ -70,7 +70,7 @@
         }
       },
       "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sBUSD.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sBUSD.svg"
     },
     {
       "address": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
@@ -87,7 +87,7 @@
         }
       },
       "chainId": 311752642,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sUSDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sUSDT.svg"
     },
     {
       "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
@@ -104,7 +104,7 @@
         }
       },
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_XDB.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_XDB.svg"
     },
     {
       "address": "0xBdE61AabC13B8419d4b72b74B254A1629858e026",
@@ -121,7 +121,7 @@
         }
       },
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     },
     {
       "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -138,7 +138,7 @@
         }
       },
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_USDT.svg"
     },
     {
       "address": "0xd15FC148C332e4228209050c809C89047443CAcD",
@@ -155,7 +155,7 @@
         }
       },
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     },
     {
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
@@ -172,7 +172,7 @@
         }
       },
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_BUSD.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_BUSD.svg"
     },
     {
       "address": "0xED9AAD5a764aB1522a67AbAD3583EbefaEfa2BA5",
@@ -189,7 +189,7 @@
         }
       },
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     },
     {
       "address": "0x4485aEC156aF64b397b172b14a6Dcb56263Ab1Dc",
@@ -206,7 +206,7 @@
         }
       },
       "chainId": 66,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_sOLT.svg"
     },
     {
       "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
@@ -223,7 +223,7 @@
         }
       },
       "chainId": 66,
-      "logoURI": "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master/assets/asset_WOKT.svg"
+      "logoURI": "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master/assets/asset_WOKT.svg"
     }
   ],
   "version": {

@@ -9,7 +9,7 @@ import { requireOrNull } from "./utils/requireOrNull";
 const version = packageJSON.version.split(".");
 
 const LOGO_URI_BASE =
-  "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master";
+  "https://raw.githubusercontent.com/Oneledger/syndicate-token-list/master";
 
 const makeTokenList = (
   previousTokenList: TokenList | null,
