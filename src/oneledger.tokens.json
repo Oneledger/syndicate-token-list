@@ -1,5 +1,20 @@
 [
   {
+    "address": "0x7599108F62DF4E3054CE438e0C4e16856339Cf6c",
+    "name": "Syndicate USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "originBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600",
+          "destBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0"
+        }
+      }
+    }
+  },
+  {
     "address": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
     "name": "Syndicate WOKT",
     "symbol": "WOKT",

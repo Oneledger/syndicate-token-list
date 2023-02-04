@@ -1,5 +1,20 @@
 [
   {
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "extensions": {
+      "bridgeInfo": {
+        "311752642": {
+          "tokenAddress": "0x7599108F62DF4E3054CE438e0C4e16856339Cf6c",
+          "originBridgeAddress": "0x337882C0f263D457704Bd52c5741d43F71F316c0",
+          "destBridgeAddress": "0xE9cB771A919ABe70612af5639E6b9c441688C600"
+        }
+      }
+    }
+  },
+  {
     "address": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
     "name": "digitalbits",
     "symbol": "XDB",
