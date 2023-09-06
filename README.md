@@ -1,7 +1,7 @@
 # Syndicate Token List
 
 Official token list of [Syndicate bridge](https://syndicate-bridge.oneledger.network).
-
+  
 ## Contributing
 
 To add a token to Syndicate bridge:
